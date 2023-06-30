@@ -1,0 +1,9 @@
+[submodule "1-Frontend-Interface-Applications/Driven-Eats"]
+	path = 1-Frontend-Interface-Applications/Driven-Eats
+	url = https://github.com/luiz-gustavo-alves/Driven-Eats
+[submodule "1-Frontend-Interface-Applications/Driven-Parrot-Card-Game"]
+	path = 1-Frontend-Interface-Applications/Driven-Parrot-Card-Game
+	url = https://github.com/luiz-gustavo-alves/Driven-Parrot-Card-Game
+[submodule "1-Frontend-Interface-Applications/Driven-Chat-UOL"]
+	path = 1-Frontend-Interface-Applications/Driven-Chat-UOL
+	url = https://github.com/luiz-gustavo-alves/Driven-Chat-UOL
