@@ -7,3 +7,15 @@
 [submodule "1-Frontend-Interface-Applications/Driven-Chat-UOL"]
 	path = 1-Frontend-Interface-Applications/Driven-Chat-UOL
 	url = https://github.com/luiz-gustavo-alves/Driven-Chat-UOL
+[submodule "2-Single-Page-Applications/Driven-Hangman"]
+	path = 2-Single-Page-Applications/Driven-Hangman
+	url = https://github.com/luiz-gustavo-alves/Driven-Hangman
+[submodule "2-Single-Page-Applications/Driven-ZapRecall"]
+	path = 2-Single-Page-Applications/Driven-ZapRecall
+	url = https://github.com/luiz-gustavo-alves/Driven-ZapRecall
+[submodule "2-Single-Page-Applications/Driven-Cineflix"]
+	path = 2-Single-Page-Applications/Driven-Cineflix
+	url = https://github.com/luiz-gustavo-alves/Driven-Cineflix
+[submodule "2-Single-Page-Applications/Driven-Trackit"]
+	path = 2-Single-Page-Applications/Driven-Trackit
+	url = https://github.com/luiz-gustavo-alves/Driven-Trackit
