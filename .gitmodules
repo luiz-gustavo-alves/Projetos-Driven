@@ -19,3 +19,15 @@
 [submodule "2-Single-Page-Applications/Driven-Trackit"]
 	path = 2-Single-Page-Applications/Driven-Trackit
 	url = https://github.com/luiz-gustavo-alves/Driven-Trackit
+[submodule "3-Backend-APIs/Driven-Tweetero"]
+	path = 3-Backend-APIs/Driven-Tweetero
+	url = https://github.com/luiz-gustavo-alves/Driven-Tweetero
+[submodule "3-Backend-APIs/Driven-API-Chat-UOL"]
+	path = 3-Backend-APIs/Driven-API-Chat-UOL
+	url = https://github.com/luiz-gustavo-alves/Driven-API-Chat-UOL
+[submodule "3-Backend-APIs/Driven-All-Articles-Back"]
+	path = 3-Backend-APIs/Driven-All-Articles-Back
+	url = https://github.com/luiz-gustavo-alves/Driven-All-Articles-Back
+[submodule "3-Backend-APIs/Driven-All-Articles-Front"]
+	path = 3-Backend-APIs/Driven-All-Articles-Front
+	url = https://github.com/luiz-gustavo-alves/Driven-All-Articles-Front
