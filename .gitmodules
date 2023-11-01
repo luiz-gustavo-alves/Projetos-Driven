@@ -31,3 +31,21 @@
 [submodule "3-Backend-APIs/Driven-All-Articles-Front"]
 	path = 3-Backend-APIs/Driven-All-Articles-Front
 	url = https://github.com/luiz-gustavo-alves/Driven-All-Articles-Front
+[submodule "4-Relational-Database/Driven-BoardCamp-API"]
+	path = 4-Relational-Database/Driven-BoardCamp-API
+	url = https://github.com/luiz-gustavo-alves/Driven-BoardCamp-API
+[submodule "4-Relational-Database/Driven-Shortly"]
+	path = 4-Relational-Database/Driven-Shortly
+	url = https://github.com/luiz-gustavo-alves/Driven-Shortly
+[submodule "4-Relational-Database/Get-Samurais-API"]
+	path = 4-Relational-Database/Get-Samurais-API
+	url = https://github.com/luiz-gustavo-alves/Get-Samurais-API
+[submodule "4-Relational-Database/Get-Samurais-Front"]
+	path = 4-Relational-Database/Get-Samurais-Front
+	url = https://github.com/luiz-gustavo-alves/Get-Samurais-Front
+[submodule "4-Relational-Database/Linkr-API"]
+	path = 4-Relational-Database/Linkr-API
+	url = https://github.com/luiz-gustavo-alves/Linkr-API
+[submodule "4-Relational-Database/Linkr-Front"]
+	path = 4-Relational-Database/Linkr-Front
+	url = https://github.com/luiz-gustavo-alves/Linkr-Front
