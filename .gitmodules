@@ -49,3 +49,9 @@
 [submodule "4-Relational-Database/Linkr-Front"]
 	path = 4-Relational-Database/Linkr-Front
 	url = https://github.com/luiz-gustavo-alves/Linkr-Front
+[submodule "5-Architecture-Onboarding/Driviagens-API"]
+	path = 5-Architecture-Onboarding/Driviagens-API
+	url = https://github.com/luiz-gustavo-alves/Driviagens-API
+[submodule "5-Architecture-Onboarding/Drivent-API"]
+	path = 5-Architecture-Onboarding/Drivent-API
+	url = https://github.com/luiz-gustavo-alves/Drivent-API
